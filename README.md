@@ -1,1 +1,1 @@
-# PATTERN
+# Arrays code
